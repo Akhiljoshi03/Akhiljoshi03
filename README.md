@@ -54,18 +54,14 @@ fun_fact: "I debug with print statements and I'm not sorry"
 
 ### 📌 Featured Work
 
-<a href="https://github.com/Akhiljoshi03/SkillMatch-AI">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=SkillMatch-AI&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Akhiljoshi03/Skillmatch-ai">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=Skillmatch-ai&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
-<a href="https://github.com/Akhiljoshi03/TaskFlow">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=TaskFlow&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<br/>
-<a href="https://github.com/Akhiljoshi03/ShopSphere">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=ShopSphere&theme=radical&hide_border=true&bg_color=0D1117" />
+<a href="https://github.com/Akhiljoshi03/Spherecart">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=Spherecart&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
-*(rename your repos to match these names exactly, or send me the real ones and I'll swap them in)*
+*(TaskFlow left out since it isn't published yet — send me the repo name once it's live and I'll add its card back)*
 
 </div>
 
