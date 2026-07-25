@@ -32,7 +32,7 @@ fun_fact: "I debug with print statements and I'm not sorry"
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akhiljoshi03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%"/>
+<img src="./profile/stats.svg" width="100%"/>
 
 </td>
 </tr>
@@ -54,13 +54,31 @@ fun_fact: "I debug with print statements and I'm not sorry"
 
 ### 📌 Featured Work
 
-<a href="https://github.com/Akhiljoshi03/Skillmatch-ai">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=Skillmatch-ai&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Akhiljoshi03/Spherecart">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=Spherecart&theme=radical&hide_border=true&bg_color=0D1117" />
-</a>
+<table>
+<tr>
+<td width="50%">
 
+**[Skillmatch AI](https://github.com/Akhiljoshi03/Skillmatch-ai)**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<br/>
+NLP-driven resume-to-job-description matching engine.
+
+</td>
+<td width="50%">
+
+**[Spherecart](https://github.com/Akhiljoshi03/Spherecart)**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<br/>
+Full-stack e-commerce platform with auth and checkout.
+
+</td>
+</tr>
+</table>
+
+*(TaskFlow left out since it isn't published yet — send me the repo name once it's live and I'll add it back)*
 
 </div>
 
