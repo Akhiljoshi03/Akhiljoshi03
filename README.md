@@ -61,7 +61,6 @@ fun_fact: "I debug with print statements and I'm not sorry"
 <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=Spherecart&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
-*(TaskFlow left out since it isn't published yet — send me the repo name once it's live and I'll add its card back)*
 
 </div>
 
