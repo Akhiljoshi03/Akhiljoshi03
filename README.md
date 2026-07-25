@@ -1,81 +1,109 @@
-<h1 align="center">Hi 👋, I'm Akhil Joshi</h1>
-<h3 align="center">AI/ML Engineer in the making | Full-Stack Developer | B.Tech CSE (AI & ML) @ VIT Bhopal</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI-powered+apps;NLP+%7C+Machine+Learning+%7C+Full-Stack+Dev;Turning+ideas+into+working+products" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akhil%20Joshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="mailto:allenjoshi297@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Akhiljoshi03"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=console.log('Hello%2C+World!');;Building+things+with+AI+%2B+code;Always+shipping%2C+always+learning" alt="Typing SVG" />
 
----
+</div>
 
-### 🚀 About Me
+<br/>
 
-- 🎓 B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning), VIT Bhopal
-- 💼 IT Intern @ Taj Cement (Hills Cement Company Ltd.) — applied AI/ML to automate internal analytics
-- 🌱 Currently exploring NLP, LLM integration, and full-stack development
-- ⚡ 5⭐ Java badge on HackerRank | 100+ DSA problems solved on LeetCode
-- 📫 Reach me at **allenjoshi297@gmail.com**
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
----
+### 👨‍💻 About Me
 
-### 🛠️ Tech Stack
+```yaml
+name: Akhil Joshi
+role: AI/ML Enthusiast & Full-Stack Developer
+focus: [NLP, LLMs, Web Apps]
+currently_learning: Advanced Machine Learning & System Design
+philosophy: "Ship it, then make it better"
+fun_fact: "I debug with print statements and I'm not sorry"
+```
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
-</p>
+- 🔭 Building things at the intersection of **AI and web development**
+- 🌱 Deep-diving into **NLP & LLM-powered applications**
+- 👯 Open to collaborating on **open-source AI/ML projects**
+- 💬 Ask me about **Python, ML pipelines, or full-stack architecture**
+- ⚡ When not coding, probably dancing or hunting a new DSA problem
 
----
+</td>
+<td width="45%" valign="top" align="center">
 
-### 📌 Pinned Projects
+<img src="https://github-readme-stats.vercel.app/api?username=Akhiljoshi03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/Akhiljoshi03/SkillMatch-AI">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=SkillMatch-AI&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Akhiljoshi03/TaskFlow">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=TaskFlow&theme=tokyonight" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Akhiljoshi03/ShopSphere">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=ShopSphere&theme=tokyonight" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
-> ⚠️ Pin cards only render correctly once the repo **name** on GitHub matches exactly (e.g. `SkillMatch-AI`, `TaskFlow`, `ShopSphere`). Rename your repos to match, or tell me the real repo names and I'll update the links.
+<br/>
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+### 🧰 Tech Stack
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Akhiljoshi03&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiljoshi03&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,flask,mongodb,git,github,html,css&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhiljoshi03&theme=tokyonight" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhiljoshi03&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<br/>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akhiljoshi03&style=flat-square&color=blue" alt="profile views" />
-</p>
+### 📌 Featured Work
+
+<a href="https://github.com/Akhiljoshi03/SkillMatch-AI">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=SkillMatch-AI&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/Akhiljoshi03/TaskFlow">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=TaskFlow&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
+<br/>
+<a href="https://github.com/Akhiljoshi03/ShopSphere">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=Akhiljoshi03&repo=ShopSphere&theme=radical&hide_border=true&bg_color=0D1117" />
+</a>
+
+*(rename your repos to match these names exactly, or send me the real ones and I'll swap them in)*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔥 Streak & Activity
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhiljoshi03&theme=radical&hide_border=true&background=0D1117" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhiljoshi03&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Akhiljoshi03&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+<br/>
+
+<!-- 🐍 Contribution snake — see setup note below -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Akhiljoshi03/Akhiljoshi03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<img src="https://komarev.com/ghpvc/?username=Akhiljoshi03&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+
+</div>
