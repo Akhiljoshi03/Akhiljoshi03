@@ -73,29 +73,10 @@ fun_fact: "I debug with print statements and I'm not sorry"
 
 <div align="center">
 
-### 🔥 Streak & Activity
+### 🔥 Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhiljoshi03&theme=radical&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=Akhiljoshi03&theme=radical&hide_border=true&background=0D1117" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhiljoshi03&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akhiljoshi03&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
-<br/>
-
-<!-- 🐍 Contribution snake — see setup note below -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/Akhiljoshi03/Akhiljoshi03/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
