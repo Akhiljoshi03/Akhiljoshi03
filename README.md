@@ -32,7 +32,9 @@ fun_fact: "I debug with print statements and I'm not sorry"
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="./profile/stats.svg" width="100%"/>
+<img src="https://img.shields.io/github/followers/Akhiljoshi03?style=for-the-badge&color=58A6FF&labelColor=0D1117" /><br/><br/>
+<img src="https://img.shields.io/badge/Repos-6-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Full--Stack-58A6FF?style=for-the-badge&labelColor=0D1117" />
 
 </td>
 </tr>
@@ -78,7 +80,6 @@ Full-stack e-commerce platform with auth and checkout.
 </tr>
 </table>
 
-*(TaskFlow left out since it isn't published yet — send me the repo name once it's live and I'll add it back)*
 
 </div>
 
