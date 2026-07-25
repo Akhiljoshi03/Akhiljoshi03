@@ -8,10 +8,6 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
 ### 👨‍💻 About Me
 
 ```yaml
@@ -29,17 +25,6 @@ fun_fact: "I debug with print statements and I'm not sorry"
 - 💬 Ask me about **Python, ML pipelines, or full-stack architecture**
 - ⚡ When not coding, probably dancing or hunting a new DSA problem
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://img.shields.io/github/followers/Akhiljoshi03?style=for-the-badge&color=58A6FF&labelColor=0D1117" /><br/><br/>
-<img src="https://img.shields.io/badge/Repos-6-58A6FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Full--Stack-58A6FF?style=for-the-badge&labelColor=0D1117" />
-
-</td>
-</tr>
-</table>
-
 <br/>
 
 <div align="center">
@@ -47,6 +32,37 @@ fun_fact: "I debug with print statements and I'm not sorry"
 ### 🧰 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,flask,mongodb,git,github,html,css&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Akhiljoshi03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="49%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Akhiljoshi03&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="45%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhiljoshi03&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=EC4899&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔥 Streak
+
+<img src="https://streak-stats.demolab.com?user=Akhiljoshi03&theme=radical&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -80,16 +96,6 @@ Full-stack e-commerce platform with auth and checkout.
 </tr>
 </table>
 
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🔥 Streak
-
-<img src="https://streak-stats.demolab.com?user=Akhiljoshi03&theme=radical&hide_border=true&background=0D1117" />
 
 </div>
 
