@@ -1,110 +1,199 @@
-<div align="center">
+<h1 align="center">
+Hi 👋, I'm Akhil Joshi
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akhil%20Joshi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<h3 align="center">
+Data Analyst • AI Engineer • Full Stack Developer
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=console.log('Hello%2C+World!');;Building+things+with+AI+%2B+code;Always+shipping%2C+always+learning" alt="Typing SVG" />
+<p align="center">
+Building AI applications that transform raw data into actionable business insights.
+</p>
 
-</div>
+---
 
-<br/>
+# 🚀 About Me
 
-### 👨‍💻 About Me
+🎓 B.Tech CSE @ VIT Bhopal
 
-```yaml
-name: Akhil Joshi
-role: AI/ML Enthusiast & Full-Stack Developer
-focus: [NLP, LLMs, Web Apps]
-currently_learning: Advanced Machine Learning & System Design
-philosophy: "Ship it, then make it better"
-fun_fact: "I debug with print statements and I'm not sorry"
-```
+📊 Passionate about Data Analytics, AI & Machine Learning
 
-- 🔭 Building things at the intersection of **AI and web development**
-- 🌱 Deep-diving into **NLP & LLM-powered applications**
-- 👯 Open to collaborating on **open-source AI/ML projects**
-- 💬 Ask me about **Python, ML pipelines, or full-stack architecture**
-- ⚡ When not coding, probably dancing or hunting a new DSA problem
+💻 Full Stack Developer (React + FastAPI)
 
-<br/>
+📈 Solved 100+ DSA Problems
 
-<div align="center">
+⭐ 5-Star SQL @ HackerRank
 
-### 🧰 Tech Stack
+🏆 Devfolio Hackathon Participant
 
-<img src="https://skillicons.dev/icons?i=java,python,js,nodejs,express,flask,mongodb,git,github,html,css&theme=dark" />
+---
 
-</div>
+# 🛠 Tech Stack
 
-<br/>
+### Languages
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,sql"/>
+</p>
 
-### 📊 GitHub Stats
+### Frontend
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Akhiljoshi03&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" width="49%"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Akhiljoshi03&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" width="45%"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite"/>
+</p>
 
-</div>
+### Backend
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
+</p>
 
-<div align="center">
+### Database
 
-### 📈 Contribution Graph
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhiljoshi03&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=EC4899&point=ffffff" width="100%"/>
+### Tools
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman"/>
+</p>
 
-<br/>
+---
 
-<div align="center">
+# 💼 Featured Projects
 
-### 🔥 Streak
+## 🤖 InsightAI
 
-<img src="https://streak-stats.demolab.com?user=Akhiljoshi03&theme=radical&hide_border=true&background=0D1117" />
+AI-powered Data Analytics Platform
 
-</div>
+✔ Upload CSV datasets
 
-<br/>
+✔ AI Chat with Data
 
-<div align="center">
+✔ Automatic Data Cleaning
 
-### 📌 Featured Work
+✔ Dashboard
 
-<table>
-<tr>
-<td width="50%">
+✔ KPI Reports
 
-**[Skillmatch AI](https://github.com/Akhiljoshi03/Skillmatch-ai)**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<br/>
-NLP-driven resume-to-job-description matching engine.
+✔ Forecasting
 
-</td>
-<td width="50%">
+✔ Machine Learning
 
-**[Spherecart](https://github.com/Akhiljoshi03/Spherecart)**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<br/>
-Full-stack e-commerce platform with auth and checkout.
+🔗 https://github.com/Akhiljoshi03/InsightAI
 
-</td>
-</tr>
-</table>
+---
 
+## 🏭 SentinelIQ
 
-</div>
+AI Predictive Maintenance Platform
 
-<br/>
+✔ Sensor Monitoring
 
-<div align="center">
+✔ Anomaly Detection
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+✔ Predictive Maintenance
 
-<img src="https://komarev.com/ghpvc/?username=Akhiljoshi03&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+✔ Docker
 
-</div>
+✔ FastAPI
+
+✔ ML Models
+
+🔗 https://github.com/Akhiljoshi03/SentinelIQ
+
+---
+
+## 🛒 SphereCart
+
+Modern Full Stack E-Commerce Website
+
+React
+
+Node.js
+
+MongoDB
+
+JWT Authentication
+
+Payment Integration
+
+🔗 https://github.com/Akhiljoshi03/SphereCart
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akhiljoshi03&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiljoshi03&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Akhiljoshi03&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhiljoshi03&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 100+ LeetCode Problems
+
+⭐ HackerRank 5-Star SQL
+
+🏆 Devfolio Hackathon
+
+🎓 Google IT Support Professional
+
+🎓 IBM Data Analysis with Python
+
+🎓 Machine Learning – University of Michigan
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/akhil-joshi-7a3874412">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="mailto:allenjoshi297@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ If you like my work, consider starring my repositories!
+
+</p>
