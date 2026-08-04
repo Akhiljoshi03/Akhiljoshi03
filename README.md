@@ -24,8 +24,6 @@ Building AI applications that transform raw data into actionable business insigh
 
 ⭐ 5-Star SQL @ HackerRank
 
-🏆 Devfolio Hackathon Participant
-
 ---
 
 # 🛠 Tech Stack
@@ -124,27 +122,19 @@ Payment Integration
 
 ---
 
-# 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Akhiljoshi03&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiljoshi03&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Akhiljoshi03&theme=tokyonight&hide_border=true"/>
-
 </p>
-
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhiljoshi03&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhiljoshi03&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
 
 # 📈 Contribution Graph
 
